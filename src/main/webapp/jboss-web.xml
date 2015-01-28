@@ -1,0 +1,5 @@
+<jboss-web>
+	<security-domain>security-encrypted-audit</security-domain>
+	<disable-audit>false</disable-audit>
+	<context-root>/audit</context-root>
+</jboss-web>
